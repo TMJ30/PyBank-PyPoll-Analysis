@@ -1,5 +1,12 @@
 # Python - Reading CSVs
-Created a python script to analyze financial records of a sample company using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) csv file
+Created a python script to analyze financial records of a sample company using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) csv.
+
+I wrote a Python script to analyze a financial dataset and explore the company's performance over time. The script calculates:
+* Total number of months in the datset
+* The total net smount of **Profit/Losses** over the entire period
+* The month-to-month changes in **Profit/Losses** and average of those changes
+* The greatest increase in profits (with date and amount)
+* The greatest decrease in profits (with date and amount)
 
 
 
